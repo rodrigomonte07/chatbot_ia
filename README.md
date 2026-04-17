@@ -1,11 +1,25 @@
-# chatbot_ia
+# Chatbot com IA 🤖
 
-# Titulo
-# Input do chat
-# A cada mensagem que o usuário enviar:
-    # mostrar a mensagem que o usuário enviou no chat
-    # pegar a pergunta e enviar para uma IA responder
-    # Exibir a resposta da IA na tela
+Um chatbot interativo construído com **Streamlit** e **OpenAI API**, que permite conversas em tempo real com um modelo de linguagem de IA.
 
-# Formato markdown
-# streamlit run main.py
+## 📋 Funcionalidades
+
+- 💬 Interface de chat intuitiva e responsiva
+- 🧠 Integração com OpenAI API (GPT)
+- 📝 Histórico de mensagens persistente na sessão
+- ⚡ Respostas em tempo real
+- 🎨 Interface moderna com Streamlit
+
+## 🚀 Como Usar
+
+### Pré-requisitos
+
+- Python 3.8+
+- pip (gerenciador de pacotes Python)
+
+### Instalação
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/rodrigomonte07/chatbot_ia.git
+cd chatbot_ia
